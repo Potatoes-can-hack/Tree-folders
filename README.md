@@ -4,4 +4,4 @@ python tree data structure implementation to show files in your windows computer
 this is a interesting implemetation of the windows command:
 tree /f
 
-This program may work only on computer windows
+This program may work only on a windows computer
